@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437670893013",
+    "project_id": "phone-authentication-6f2ba",
+    "storage_bucket": "phone-authentication-6f2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437670893013:android:127f9229c9f65d2d90d95c",
+        "android_client_info": {
+          "package_name": "com.example.phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437670893013-krh067tn1lhjl1srf903p6in6e8kbep2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDouc4Nf1CjDEcIqUUVGVuwLJ8S6mai2ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437670893013-krh067tn1lhjl1srf903p6in6e8kbep2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
